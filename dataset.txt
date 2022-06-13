@@ -1,0 +1,10 @@
+﻿__label__fruit watermelon
+__label__fruit orange
+__label__fruit grapes
+__label__fruit banana
+__label__vegetable spinach
+__label__vegetable cauliflower
+__label__vegetable beans
+__label__vegetable capsicum
+__label__vegetable carrot
+__label__vegetable chilli
